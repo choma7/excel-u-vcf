@@ -1,0 +1,9 @@
+.streamlit/
+__pycache__/
+*.pyc
+.DS_Store
+*.xlsx
+!example.xlsx
+.env
+.venv/
+venv/
