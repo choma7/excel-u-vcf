@@ -3,6 +3,8 @@ import pandas as pd
 import io
 import re
 
+# Version 1.1 - Smart data detection and mentor filtering
+
 st.set_page_config(page_title="Excel → Viber Kontakti", layout="centered")
 
 st.title("📱 Excel → Viber Kontakti")
